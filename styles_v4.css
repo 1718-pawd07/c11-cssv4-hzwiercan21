@@ -1,0 +1,39 @@
+
+/*
+* Heather Zwiercan
+* April 12, 2018
+* CSS Assignment
+*/
+
+
+/* The universal selector */
+
+*{
+
+}
+/* Put body attributes here */
+
+ body{
+	background-color: blue;
+	color:black;
+	font-family: "Times New Roman", Arial, seriff;
+}
+
+h1 {
+	text-align:center;
+	font-size:48pt;
+	text-decoration:overline underline;
+}
+
+h1,h2,h3,h4,h5,h6 {
+background-color:#000080;
+}
+p{
+background-color: white;
+color:rgb(244,66,232);
+}
+
+img { 
+	float:right;
+	
+}
