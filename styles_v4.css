@@ -37,3 +37,18 @@ img {
 	float:right;
 	
 }
+a:link{
+	color: rgb(0,255,0);
+	text-decoration: none;
+}
+a:visited{
+	color:#FFFF00;
+	text-decoration: overline;
+}
+a:hover, a:focus{
+	background-color: yellow;
+	color: cadetblue:
+}
+a:active;{
+	color:red;
+}
